@@ -1,0 +1,28 @@
+----------- Algorithms -----------
+
+1 :
+	e <- a
+	a <- b
+	b <- c
+	c <- d
+	d <- e
+
+2 :
+	N becomes the remainder of m / n and m becomes n
+
+3 :
+	See AlgorithmF.c
+
+4 :
+	57
+	Run ./Algortihm_E 2166 6099
+	or
+	Run ./Algortihm_F 2166 6099
+
+5 :
+	Not a finite algorithm, repeats infinitely, no real output , nor definitiveness
+
+6 : 2.6~ times
+
+7 :
+
